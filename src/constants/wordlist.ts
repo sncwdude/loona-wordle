@@ -29,4 +29,7 @@ export const WORDS = [
   'light',
   'break',
   'dream',
+  'fight',
+  'close',
+  'flash',
 ]
